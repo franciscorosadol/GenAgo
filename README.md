@@ -121,67 +121,6 @@ _Procedimientos almacenados · Vistas (Views) · Transacciones · DTO (Data Tran
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## Proyectos destacados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗺️ Arcadia Explorer
-
-Aplicación web de turismo que permite explorar lugares y calcular rutas óptimas mediante algoritmos de grafos.
-
-**Tecnologías:** React · Firebase · Python · Flask · OSMnx · NetworkX
-
-</td>
-<td width="50%" valign="top">
-
-### 🤟 SignaTech Mobile
-
-Aplicación móvil enfocada en el aprendizaje y traducción de la Lengua de Señas Mexicana.
-
-**Tecnologías:** Kotlin · Firebase · Blender
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 SignaTech Web — InnovaTec 2024
-
-Proyecto **finalista a nivel nacional** en InnovaTec 2024, enfocado en la enseñanza y traducción de la Lengua de Señas Mexicana mediante plataforma web, app Android y guante electrónico.
-
-**Tecnologías:** Desarrollo web · App móvil · IoT
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 Sistema de Gestión de Transporte
-
-Sistema para la administración de camiones, choferes y rutas.
-
-**Tecnologías:** ASP.NET · C# · SQL Server
-**Características:** CRUD completo · Arquitectura en tres capas · Procedimientos almacenados · Vistas SQL · Validaciones · ADO.NET · Entity Framework · LINQ
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Sputiffy
-
-Reproductor de música desarrollado con ASP.NET MVC y SQL Server.
-
-**Tecnologías:** ASP.NET MVC · SQL Server · ADO.NET · LINQ
-**Características:** Reproducción de música almacenada localmente · Gestión de canciones · Base de datos para metadatos · Arquitectura MVC
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## Actualmente aprendiendo
