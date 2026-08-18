@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:512BD4,100:61DAFB&height=220&section=header&text=Francisco%20Javier%20Rosado%20Lara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20.NET%20%C2%B7%20C%23%20%C2%B7%20SQL%20Server%20%C2%B7%20React%B7%20%C2%B7%20Angular%B7%C2%B7%20PHP%B7%C2%B7%20JavaScript&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:512BD4,100:61DAFB&height=220&section=header&text=Francisco%20Javier%20Rosado%20Lara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20.NET%20%C2%B7%20C%23%20%C2%B7%20SQL%20Server%20%C2%B7%20React%20%C2%B7%20Angular%20%C2%B7%20PHP%20%C2%B7%20JavaScript&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
@@ -217,7 +217,7 @@ Reproductor de música desarrollado con ASP.NET MVC y SQL Server.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianfrancol&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscorosadol&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -226,7 +226,7 @@ Reproductor de música desarrollado con ASP.NET MVC y SQL Server.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francolazarocristian11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fbjavieroa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Próximamente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Portafolio](https://img.shields.io/badge/Portafolio-Próximamente-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Próximamente-181717?style=for-the-badge&logo=github&logoColor=white)]()
