@@ -16,20 +16,16 @@
 public class FranciscoRosado : Developer
 {
     private string _rol = "Desarrollador Full Stack";
+    private string _educacion = "Ingeniería en Sistemas Computacionales";
 
     private string[] _stack =
-        { ".NET", "C#", "ASP.NET", "SQL Server", "React", "JavaScript", "PHP", "AJAX", "Json" };
+        { ".NET", "C#", "ASP.NET", "SQL Server", "React", "JavaScript" };
 
-    public string Enfoque =>
-        "Aplicaciones web y de escritorio funcionales, escalables y mantenibles";
-
-    public string[] Principios => new[]
+    public string[] Pasatiempos => new[]
     {
-        "Programación Orientada a Objetos (POO)",
-        "Arquitectura en capas",
-        "Principios SOLID",
-        "Patrones de diseño",
-        "Buenas prácticas de desarrollo"
+        "Juegos de mesa estratégicos (como Casting Shadows)",
+        "Desarrollo y videojuegos",
+        "Estudiar japonés (日本語)"
     };
 
     public string MetaActual =>
