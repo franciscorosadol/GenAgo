@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pomodoro Fran</title>
+  <link rel="icon" type="image/png" href="katana.png" />
+  <link rel="stylesheet" href="P03R01_P_FJRL.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Pomodoro Fran</h1>
+
+    <div class="mode">
+      <button class="mode-btn active" data-mode="focus">Enfoque</button>
+      <button class="mode-btn" data-mode="short">Descanso corto</button>
+    </div>
+
+    <div class="timer-ring">
+      <svg viewBox="0 0 200 200">
+        <circle class="ring-bg" cx="100" cy="100" r="90"></circle>
+        <circle class="ring-progress" cx="100" cy="100" r="90"></circle>
+      </svg>
+      <div class="time-display" id="tiempo">25:00</div>
+    </div>
+
+    <div class="controles">
+      <button id="pausa">Iniciar</button>
+      <button id="reinicio">Reiniciar</button>
+    </div>
+
+    <p class="cycle-info">Pomodoros completados: <span id="ciclos">0</span></p>
+
+    <section class="tasks">
+      <h2>Tareas</h2>
+      <form id="form-tarea" class="task-form">
+        <input type="text" id="input-tarea" placeholder="Nueva tarea..." autocomplete="off" />
+        <button type="submit">Agregar</button>
+      </form>
+      <ul id="lista-tareas" class="task-list"></ul>
+    </section>
+  </main>
+
+  <script src="P03R01_P_FJRL.js"></script>
+</body>
+</html>

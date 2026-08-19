@@ -1,0 +1,235 @@
+:root {
+  --bg: #1b1d23;
+  --surface: #24272f;
+  --text: #f2f3f5;
+  --muted: #9aa0ab;
+  --accent-focus: #e05c5c;
+  --accent-short: #4fb0a5;
+  --accent: var(--accent-focus);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+.app {
+  width: 100%;
+  max-width: 380px;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.mode {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.mode-btn {
+  background: var(--surface);
+  color: var(--muted);
+  border: none;
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.mode-btn:hover {
+  color: var(--text);
+}
+
+.mode-btn.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.timer-ring {
+  position: relative;
+  width: 240px;
+  height: 240px;
+  margin: 0 auto 2rem;
+}
+
+.timer-ring svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.ring-bg,
+.ring-progress {
+  fill: none;
+  stroke-width: 10;
+}
+
+.ring-bg {
+  stroke: var(--surface);
+}
+
+.ring-progress {
+  stroke: var(--accent);
+  stroke-linecap: round;
+  stroke-dasharray: 565.48;
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 1s linear, stroke 0.3s;
+}
+
+.time-display {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.75rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.controles {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.controles button {
+  border: none;
+  border-radius: 8px;
+  padding: 0.75rem 1.75rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+#startPauseBtn {
+  background: var(--accent);
+  color: #fff;
+  min-width: 120px;
+}
+
+#resetBtn {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.controles button:hover {
+  filter: brightness(1.1);
+}
+
+.cycle-info {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.tasks {
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.tasks h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+  text-align: center;
+}
+
+.task-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.task-form input {
+  flex: 1;
+  background: var(--surface);
+  border: none;
+  border-radius: 8px;
+  padding: 0.6rem 0.75rem;
+  color: var(--text);
+  font-size: 0.9rem;
+}
+
+.task-form input:focus {
+  outline: 2px solid var(--accent);
+}
+
+.task-form button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.6rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+.task-form button:hover {
+  filter: brightness(1.1);
+}
+
+.task-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 0.5rem 0.6rem;
+}
+
+.task-item span {
+  flex: 1;
+  font-size: 0.9rem;
+  word-break: break-word;
+}
+
+.task-item.done span {
+  color: var(--muted);
+  text-decoration: line-through;
+}
+
+.task-item button {
+  background: none;
+  border: none;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0.2rem;
+}
+
+.task-item button:hover {
+  color: var(--text);
+}
