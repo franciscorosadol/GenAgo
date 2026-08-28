@@ -1,0 +1,7 @@
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\obj\Debug\WcfCCR.csproj.AssemblyReference.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\obj\Debug\WcfCCR.csproj.CoreCompileInputs.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\bin\WcfCCR.dll.config
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\bin\WcfCCR.dll
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\bin\WcfCCR.pdb
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\obj\Debug\WcfCCR.dll
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfCCR\obj\Debug\WcfCCR.pdb

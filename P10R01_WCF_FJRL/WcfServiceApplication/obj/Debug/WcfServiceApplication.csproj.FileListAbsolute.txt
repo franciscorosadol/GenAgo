@@ -1,0 +1,7 @@
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\obj\Debug\WcfServiceApplication.csproj.AssemblyReference.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\obj\Debug\WcfServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\bin\WcfServiceApplication.dll.config
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\bin\WcfServiceApplication.dll
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\bin\WcfServiceApplication.pdb
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\obj\Debug\WcfServiceApplication.dll
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\WcfServiceApplication\obj\Debug\WcfServiceApplication.pdb

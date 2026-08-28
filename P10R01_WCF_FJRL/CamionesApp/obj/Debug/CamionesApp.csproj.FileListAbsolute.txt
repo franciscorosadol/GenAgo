@@ -1,0 +1,7 @@
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\bin\Debug\CamionesApp.exe.config
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\bin\Debug\CamionesApp.exe
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\bin\Debug\CamionesApp.pdb
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\obj\Debug\CamionesApp.csproj.AssemblyReference.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\obj\Debug\CamionesApp.csproj.CoreCompileInputs.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\obj\Debug\CamionesApp.exe
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\CamionesApp\obj\Debug\CamionesApp.pdb

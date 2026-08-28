@@ -1,0 +1,8 @@
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\obj\Debug\ClienteWCF.csproj.AssemblyReference.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\obj\Debug\ClienteWCF.csproj.CoreCompileInputs.cache
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\bin\Debug\ClienteWCF.exe
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\bin\Debug\ClienteWCF.pdb
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\obj\Debug\ClienteWCF.exe
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\obj\Debug\ClienteWCF.pdb
+C:\Users\javi0\Documents\GenAgo\Proyectos\P10R01_WCF_FJRL\ClienteWCF\obj\Debug\ClienteWCF.exe.config

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "WcfCCR.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CamionesApp\\CamionesApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
