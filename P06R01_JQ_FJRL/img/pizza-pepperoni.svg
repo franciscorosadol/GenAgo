@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#e3a95e"/>
+  <circle cx="50" cy="50" r="41" fill="#c1440e"/>
+  <circle cx="50" cy="50" r="38" fill="#f4c542"/>
+  <circle cx="35" cy="38" r="4" fill="#fce8a8" opacity="0.6"/>
+  <circle cx="65" cy="30" r="5" fill="#fce8a8" opacity="0.6"/>
+  <circle cx="70" cy="62" r="4" fill="#fce8a8" opacity="0.6"/>
+  <circle cx="30" cy="65" r="3.5" fill="#fce8a8" opacity="0.6"/>
+  <g fill="#a8281c" stroke="#7a1d13" stroke-width="1">
+    <circle cx="38" cy="34" r="7"/>
+    <circle cx="62" cy="32" r="7"/>
+    <circle cx="50" cy="50" r="7.5"/>
+    <circle cx="30" cy="55" r="6.5"/>
+    <circle cx="70" cy="55" r="6.5"/>
+    <circle cx="42" cy="68" r="6.5"/>
+    <circle cx="63" cy="70" r="6"/>
+  </g>
+  <g fill="#7a1d13" opacity="0.5">
+    <circle cx="36" cy="32" r="1" />
+    <circle cx="64" cy="30" r="1" />
+    <circle cx="50" cy="48" r="1" />
+    <circle cx="29" cy="53" r="1" />
+    <circle cx="71" cy="53" r="1" />
+    <circle cx="41" cy="66" r="1" />
+    <circle cx="62" cy="68" r="1" />
+  </g>
+</svg>

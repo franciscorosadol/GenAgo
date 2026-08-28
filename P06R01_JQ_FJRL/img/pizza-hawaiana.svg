@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#e3a95e"/>
+  <circle cx="50" cy="50" r="41" fill="#c1440e"/>
+  <circle cx="50" cy="50" r="38" fill="#f7cf5a"/>
+  <!-- jamón -->
+  <g fill="#e8918f" stroke="#c96a68" stroke-width="1">
+    <rect x="30" y="30" width="12" height="9" rx="2" transform="rotate(15 36 34)"/>
+    <rect x="55" y="28" width="12" height="9" rx="2" transform="rotate(-10 61 32)"/>
+    <rect x="60" y="55" width="12" height="9" rx="2" transform="rotate(20 66 59)"/>
+    <rect x="32" y="58" width="12" height="9" rx="2" transform="rotate(-15 38 62)"/>
+    <rect x="46" y="45" width="12" height="9" rx="2" transform="rotate(5 52 49)"/>
+  </g>
+  <!-- piña -->
+  <g fill="#f9e27a" stroke="#e0c24f" stroke-width="1">
+    <polygon points="44,26 50,26 47,34"/>
+    <polygon points="66,44 72,44 69,52"/>
+    <polygon points="55,66 61,66 58,74"/>
+    <polygon points="26,48 32,48 29,56"/>
+    <polygon points="50,50 56,50 53,58"/>
+  </g>
+</svg>
